@@ -1,0 +1,98 @@
+
+html,
+body{
+  height: 100%;  
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-weight: 300;
+  margin: 0;
+  padding: 0;
+
+}
+.frontimg{
+
+  background-image: url("./image1.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 100%;
+  position: relative;
+
+
+}
+
+.text1{
+
+  position: absolute;
+  top: 50%;
+  width: 100%;
+  text-align: center;
+  font-size: larger;
+  font-weight: bold;
+  letter-spacing: 10px;
+  text-transform: uppercase;
+  
+
+}
+.text1bg{
+  background-color: #1e1d1d;
+ 
+  color: antiquewhite;
+  padding: 2%;
+
+}
+.section1text{
+  padding: 50px 80px;
+  text-align: center;
+  color: #666;
+  background-color: white;
+  
+
+}
+.secondimg{
+
+background-image: url("./image2.png");
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+min-height: 400px;
+position: relative;
+
+
+}
+.text2bg{
+  background: transparent;
+  color: white;
+  
+}
+.section2text{
+  padding: 50px 80px;
+  text-align: center;
+  color: white;
+  background-color:  #666;
+  
+
+}
+.thirdimg{
+background-image: url("./image3.png");
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+min-height: 400px;
+position: relative;
+
+
+}
+.text3bg{
+  background: transparent;
+  color: white;
+
+
+}
+.section3text{
+  padding: 50px 80px;
+  text-align: center;
+  color: white;
+  background-color:  #666;
+  
+
+}
